@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# 视频文件（测试用）
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.webm
+
+# 音频文件
+*.wav
+*.mp3
+*.aac
+
+# 字幕文件（临时）
+*.srt
+*.ass
+*.vtt
+
+# 转录结果
+*_transcript.json
+*_analysis.json
+*_cut_plan.json
+*_keywords.json
+*_whisper.json
+
+# 审查稿
+*_审查稿.md
+*_字幕稿.txt
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 模型文件（太大，不上传）
+*.ckpt
+*.pth
+*.bin
+*.safetensors
+
+# FunASR 模型缓存
+.cache/
+models/
+
+# Whisper 模型缓存
+~/.cache/whisper/
+
+# 测试数据
+test_videos/
+test_data/
+1.*/
+2.*/
