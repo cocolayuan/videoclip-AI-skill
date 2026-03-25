@@ -40,11 +40,12 @@ dist/
 *_审查稿.md
 *_字幕稿.txt
 
-# 临时文件
+# 临时文件（含字体预览）
 *.tmp
 *.log
 .DS_Store
 Thumbs.db
+_preview_*
 
 # IDE
 .vscode/
