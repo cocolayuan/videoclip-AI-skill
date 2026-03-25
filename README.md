@@ -3,8 +3,8 @@
 > Claude Skill-powered video editing toolkit - Automatic video editing
 
 
+https://github.com/user-attachments/assets/2e4b7344-0589-44e9-9fdf-132478398a7e
 
-https://github.com/cocolayuan/videoclip-AI-skill/raw/main/assets/Disney%20Vlog%20Test.mp4
 
 
 ## 谁在用？
